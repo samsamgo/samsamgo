@@ -30,9 +30,10 @@
 
 <h1>🔥Every winner was a loser at some point.</h1>
 <div>
- <img align="right" src="https://user-images.githubusercontent.com/110460401/199184040-07236655-e522-4dec-ab8a-e8b3f696eb5b.png"/>
+ <img align="right" src="https://user-images.githubusercontent.com/110460401/199253751-549e5987-db9b-48d3-a003-3c98d5af5e51.png"/>
      <br>  </br>  
      <br>  </br> 
+
 
  <h1 align="center"> 📢실리콘 벨리의 창업자들은 말합니다. </h1>
     <br>  </br>
