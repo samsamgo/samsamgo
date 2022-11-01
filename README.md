@@ -2,8 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SamSamgo%20&fontSize=90" />
 </p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsamsamgoo.tistory.com&count_bg=%23212726&title_bg=%23A2AABC&icon=kaggle.svg&icon_color=%23090101&title=samsamgo&edge_flat=false)](https://hits.seeyoufarm.com)
+<h3>📋 Visitor</h3>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsamsamgo%2F&count_bg=%2370746E&title_bg=%2350587A&icon=github.svg&icon_color=%23E7E7E7&title=samsamgo&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center>
@@ -19,12 +21,12 @@
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
 <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 </div>
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jku2222)](https://solved.ac/jku2222)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samsamgo)](https://github.com/samsamgo/github-readme-stats)
 
 ## Features
 
