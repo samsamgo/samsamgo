@@ -7,28 +7,32 @@
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsamgo&theme=dracula&exclude_repo=Computer-Science-Engineering,clone-web-scrapper&hide=Procfile&layout=compact&langs_count=8"/>
 
+<p align="center">
+  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=samsamgo&layout=compact&theme=dark" />
+</p>
   
-  ### 🐒 SamSamgo 🦍
+  ###  SamSamgo 
   
   ---
   
+<p align="center">
 <a href="https://github.com/samsamgo">
-  <img 
-    alt="GitHub Hits" 
-    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsamsamgo&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"
-  />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/samsamgo&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub"/>
 </a>
+    <a href="https://solved.ac/profile/jku2222">
+      <img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=jku2222"/>
+    </a>
+    <a href="https://samsamgoo.tistory.com/">
+      <img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=vimeo&logoColor=white"/>
+    </a>
+  </p>
 
-<a href="https://solved.ac/jku2222">
-  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jku2222"/>
-</a>
+  <br>
 
-<a href="https://samsamgoo.tistory.com/">
-  <img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/>
-</a>
-
+<p align="center">
+  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=samsamgo&layout=compact&theme=dark" />
+</p>
 
   <br>
  
