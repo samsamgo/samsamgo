@@ -14,9 +14,21 @@
   
   ---
   
-  <a href="https://github.com/samsamgo"><img alt="solved.ac" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsamsamgo&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/jku2222"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jku2222"/></a>
- 
- <a href="https://samsamgoo.tistory.com/"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="https://github.com/samsamgo">
+  <img 
+    alt="GitHub Hits" 
+    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsamsamgo&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"
+  />
+</a>
+
+<a href="https://solved.ac/jku2222">
+  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jku2222"/>
+</a>
+
+<a href="https://samsamgoo.tistory.com/">
+  <img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/>
+</a>
+
 
   <br>
  
