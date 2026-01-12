@@ -52,6 +52,7 @@
         <p align="left">
           <b>어제보다 더 나은 로직을 고민하는 개발자, SamSamgo입니다.</b>
         </p>
+          <br>
       </td>
     </tr>
   </table>
